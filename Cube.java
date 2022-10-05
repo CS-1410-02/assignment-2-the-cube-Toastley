@@ -113,7 +113,7 @@ public class Cube {
           color[cF][2][0] = tempColor4;
           color[cF][1][0] = tempColor5;
           
-          commandsToSolve = "U, " + commandsToSolve;
+          commandsToSolve = "U', " + commandsToSolve;
         break;
 
         case "U'":
@@ -147,7 +147,7 @@ public class Cube {
           color[cF][2][0] = tempColor0;
           color[cF][1][0] = tempColor1;
 
-          commandsToSolve = "U', " + commandsToSolve;
+          commandsToSolve = "U, " + commandsToSolve;
 
         break;
 
@@ -182,7 +182,7 @@ public class Cube {
           color[cF][2][0] = tempColor4;
           color[cF][1][0] = tempColor5;
 
-          commandsToSolve = "D, " + commandsToSolve;
+          commandsToSolve = "D', " + commandsToSolve;
 
         break;
 
@@ -217,7 +217,7 @@ public class Cube {
           color[cF][2][0] = tempColor0;
           color[cF][1][0] = tempColor1;
 
-          commandsToSolve = "D', " + commandsToSolve;
+          commandsToSolve = "D, " + commandsToSolve;
 
         break;
         
@@ -266,7 +266,7 @@ public class Cube {
           color[cF][2][0] = tempColor4;
           color[cF][1][0] = tempColor5;
 
-          commandsToSolve = "R, " + commandsToSolve;
+          commandsToSolve = "R', " + commandsToSolve;
 
         break;
 
@@ -315,7 +315,7 @@ public class Cube {
           color[cF][2][0] = tempColor0;
           color[cF][1][0] = tempColor1;
 
-          commandsToSolve = "R', " + commandsToSolve;
+          commandsToSolve = "R, " + commandsToSolve;
 
         break;
 
@@ -364,7 +364,7 @@ public class Cube {
           color[cF][2][0] = tempColor4;
           color[cF][1][0] = tempColor5;
 
-          commandsToSolve = "L, " + commandsToSolve;
+          commandsToSolve = "L', " + commandsToSolve;
 
         break;
 
@@ -413,7 +413,7 @@ public class Cube {
           color[cF][2][0] = tempColor0;
           color[cF][1][0] = tempColor1;
 
-          commandsToSolve = "L', " + commandsToSolve;
+          commandsToSolve = "L, " + commandsToSolve;
 
         break;
 
@@ -462,7 +462,7 @@ public class Cube {
           color[cF][2][0] = tempColor4;
           color[cF][1][0] = tempColor5;
 
-          commandsToSolve = "F, " + commandsToSolve;
+          commandsToSolve = "F', " + commandsToSolve;
 
         break;
         
@@ -511,7 +511,7 @@ public class Cube {
           color[cF][2][0] = tempColor0;
           color[cF][1][0] = tempColor1;
 
-          commandsToSolve = "F', " + commandsToSolve;
+          commandsToSolve = "F, " + commandsToSolve;
 
         break;
 
@@ -560,7 +560,7 @@ public class Cube {
           color[cF][2][0] = tempColor4;
           color[cF][1][0] = tempColor5;
 
-          commandsToSolve = "B, " + commandsToSolve;
+          commandsToSolve = "B', " + commandsToSolve;
 
         break;
 
@@ -609,7 +609,7 @@ public class Cube {
           color[cF][2][0] = tempColor0;
           color[cF][1][0] = tempColor1;
 
-          commandsToSolve = "B', " + commandsToSolve;
+          commandsToSolve = "B, " + commandsToSolve;
 
         break;
         
