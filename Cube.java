@@ -1,6 +1,14 @@
 
 import java.util.Scanner;
 
+//Feedback
+// Looks great! I think its easy to read and run and I think it would be fairly easy to contribute to as well.
+// Could definitly be more readable with more use of functions and comments but that's fine.
+// I like the solution always being shown. A cool addition could be to check if the cube is solved and 
+// reset your commandsToSolve list so you don't have lists like U',U',U',U',U',U',U',U'.
+// 
+
+
 public class Cube {
 	public static void main(final String[] args){
 
